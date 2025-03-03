@@ -1,5 +1,4 @@
 # Static-Android-Testing-Checklist
-## **Android Static Analysis Pentesting Checklist**  
 
 ## **1. APK Extraction & Decompilation**  
 - [ ] **Extract APK contents**: `unzip app.apk -d extracted_apk`  
